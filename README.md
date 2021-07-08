@@ -1,7 +1,9 @@
 shelf_stock_recommendations
 ==============================
 
-demonstration of logic
+demonstration of logic 
+
+Questions? Contact bcbeidel [AT] gmail [DOT] com
 
 Project Organization
 ------------
