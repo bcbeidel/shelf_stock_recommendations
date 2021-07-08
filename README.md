@@ -1,7 +1,7 @@
 shelf_stock_recommendations
 ==============================
 
-A short description of the project.
+demonstration of logic
 
 Project Organization
 ------------
