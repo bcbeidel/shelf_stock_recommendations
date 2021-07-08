@@ -1,0 +1,7 @@
+Header,,,,,
+Date Range:,"""Start Date",-,"End Date""",,
+Risk Factor:,"""Risk Factor""",,,,
+,,,,,
+Table,,,,,
+"""NDC_DESC""","COUNT OF ""N_DAY_ROLLING_SUM""","""STDDEV.S""","""UNIT""","""MIN_VALUE""","""MAX_VALUE"""
+,where no 0 occurs,,,,
